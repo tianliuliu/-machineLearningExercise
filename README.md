@@ -1,2 +1,9 @@
 # -machineLearningExercise
 对于机器学习中各种算法的实现和练习
+
+这是一个完整的javaProject项目，下载以后可以直接导入到eclipse中
+
+
+其中的testPreceptron.txt文件是用于训练的样本
+只要保证每一行中最后一个是Y值，前边的都是x向量，用空格隔开就可以
+文件中的行数就是训练集的样本数
